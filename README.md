@@ -176,13 +176,6 @@ wrangler deploy
 
 ---
 
-## 🙏 قدردانی
-
-- [Cloudflare](https://www.cloudflare.com/) - زیرساخت رایگان
-- [fiavo](https://github.com/fiavo) - پروژه اصلی
-- جامعه توسعه‌دهندگان ایرانی
-
----
 
 <div align="center">
 
