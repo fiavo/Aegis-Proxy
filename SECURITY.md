@@ -1,4 +1,4 @@
-# Security and verification
+ه# Security and verification
 
 Nova Proxy carries traffic for people in high-censorship networks, so being able
 to trust the code is part of the product. This document explains how to verify
@@ -35,8 +35,7 @@ runs the code you deployed; it does not fetch or execute remote code at runtime.
 Please report security issues privately first, so users are not exposed before a
 fix ships:
 
-- Telegram: **[@aegis_proxy](https://t.me/aegis_proxy)** (DM the maintainers)
-- Or open a **private security advisory** on this repository (Security tab, "Report a vulnerability").
+- open a **private security advisory** on this repository (Security tab, "Report a vulnerability").
 
 We aim to acknowledge reports quickly and to credit reporters who want it. We do
 not condone harassment of security researchers, and we ask the community not to
